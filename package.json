@@ -1,0 +1,26 @@
+{
+  "name": "sharelynk",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": "^20.19.0 || >=22.12.0" },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource/hind-siliguri": "^5.2.0",
+    "@fontsource/inter": "^5.2.0",
+    "@fontsource/poppins": "^5.2.0",
+    "lucide-react": "^1.0.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.0",
+    "@vitejs/plugin-react": "^6.0.0",
+    "tailwindcss": "^4.3.0",
+    "vite": "^8.0.0"
+  }
+}
